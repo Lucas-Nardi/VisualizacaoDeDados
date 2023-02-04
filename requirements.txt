@@ -3,3 +3,4 @@ matplotlib==3.6.3
 pandas==1.5.3
 plotly==5.13.0
 streamlit==1.17.0
+currencyconverter==0.17.5
